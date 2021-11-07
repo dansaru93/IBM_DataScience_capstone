@@ -1,7 +1,7 @@
 # IBM Data Science capstone course
 
 
-In this project, I apply data science skills for a (fictitious) private space launch company: Space Y.
+In this project, I apply data science skills for a private space launch company.
 
 As a starting point of almost all data science projects, I collect data, as much and relevant as possible.
 After collect the raw data, I will improve the data quality by performing data wrangling. 
